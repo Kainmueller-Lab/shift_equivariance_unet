@@ -1,0 +1,4 @@
+checkpoint*.index
+checkpoint*.data-0000*
+checkpoint
+logdir*/
