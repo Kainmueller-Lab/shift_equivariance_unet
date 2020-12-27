@@ -1,4 +1,4 @@
-# How Shift Equivariance Impacts Metric Learning forInstance Segmentation
+# How Shift Equivariance Impacts Metric Learning for Instance Segmentation
 
 PDF: https://arxiv.org/abs/
 
