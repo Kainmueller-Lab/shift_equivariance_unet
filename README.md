@@ -1,11 +1,11 @@
 # How Shift Equivariance Impacts Metric Learning for Instance Segmentation
 
-PDF: https://arxiv.org/abs/
+PDF: https://arxiv.org/abs/2101.05846
 
 Josef Lorenz Rumberger<sup>1</sup>
-Melanie Dohmen<sup>1</sup>
-Peter Hirsch<sup>1</sup>
 Xiaoyan Yu<sup>1</sup>
+Peter Hirsch<sup>1</sup>
+Melanie Dohmen<sup>1</sup>
 Vanessa Emanuela Guarino<sup>1</sup>
 Lisa Mais
 Ashkan Mokarian
@@ -25,3 +25,7 @@ We complement these theoretical findings by discussing a number of insightful sp
 ## Overview
 
 This repository contains the *jupyter* notebooks used for the experiments and to generate the figures.
+
+## WIP
+
+We will (soon) provide shift equivariant U-Net implementations for tensorflow and pytorch.
