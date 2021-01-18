@@ -9,6 +9,7 @@ Melanie Dohmen<sup>1</sup>
 Vanessa Emanuela Guarino<sup>1</sup>
 Lisa Mais
 Ashkan Mokarian
+Jan Funke
 Dagmar Kainmueller  
 <sup>1</sup>Authors contributed equally</br>
 
