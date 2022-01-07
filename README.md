@@ -1,6 +1,8 @@
-# How Shift Equivariance Impacts Metric Learning for Instance Segmentation
+# How Shift Equivariance Impacts Metric Learning for Instance Segmentation (ICCV2021)
 
 PDF: https://arxiv.org/abs/2101.05846
+
+![Poster illustrating the problem and how to fix it](./poster.png "What can go wrong with tile&stitch")
 
 Josef Lorenz Rumberger<sup>1</sup>
 Xiaoyan Yu<sup>1</sup>
@@ -26,7 +28,3 @@ We complement these theoretical findings by discussing a number of insightful sp
 ## Overview
 
 This repository contains the *jupyter* notebooks used for the experiments and to generate the figures.
-
-## WIP
-
-We will (soon) provide shift equivariant U-Net implementations for tensorflow and pytorch.
